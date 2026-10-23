@@ -12,12 +12,40 @@ I work at the intersection of **HR leadership, product building, and organizatio
 
 ## Selected work
 
+### FusionLoop
+
+**Organization, roles & incentives in the age of agents.**
+
+[![FusionLoop — research into organization, roles and incentives](https://raw.githubusercontent.com/Owen-Teng/fusionloop/ac6e9449b94de074634c329827d5343c9168bba4/assets/fusionloop-cover.svg)](https://github.com/Owen-Teng/fusionloop#readme-ov-file)
+
+**[Read the 37-page paper →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)**
+
+<details>
+<summary>Research overview, hypotheses & examples</summary>
+
 **[FusionLoop](https://github.com/Owen-Teng/fusionloop#readme-ov-file) · Organization, roles & incentives in the age of agents**  
 My research into how shared outcomes, human judgment and agent execution can reshape work—and how operating evidence should inform organization, roles, rewards and succession.
 
 [37-page paper](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [English introduction](https://github.com/Owen-Teng/fusionloop/blob/main/README.en.md) · [Core hypothesis](https://github.com/Owen-Teng/fusionloop/blob/main/idea.md) · [Role design example](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.md)
 
 <sub>August 2026 research report · Full paper, original figures and bilingual guides · Web edition v0.2, 23 October 2026. Organizational hypotheses remain to be tested.</sub>
+
+</details>
+
+### Companest · 伴境
+
+**Your AI world for work.**
+
+[![Actual Companest home screen with fictional data: six assistant rooms](projects/companest/docs/media/companest-world.png)](projects/companest/README.md)
+
+Start with mail matters, editable replies, and continued follow-up; other workflows unlock progressively.
+
+**[Explore the product & demonstrations →](projects/companest/README.md)** · [Mail capabilities](projects/companest/docs/MAIL-FEATURES.md)
+
+<sub>Windows mail preview · Public showcase, private source</sub>
+
+<details>
+<summary>Product origins & current stage</summary>
 
 **[Companest · 伴境](projects/companest/README.md) · Your AI world for work**  
 A welcoming workspace with rooms, animation, and six assistants. Start with mail matters, editable replies, and continued follow-up; other workflows unlock progressively.
@@ -26,11 +54,23 @@ A welcoming workspace with rooms, animation, and six assistants. Start with mail
 
 <sub>Windows mail preview · Public showcase, private source · Formerly FridayOS; original artwork and historical captures retain earlier branding.</sub>
 
+</details>
+
+### Earlier work & open-source exploration
+
+[**FridayOS 1.0**](https://github.com/Robinson-AI-Lab/FridayOS1.0) · Earlier public work with Robinson AI Lab  
+[**frago**](https://github.com/Owen-Teng/frago) · Fork of [tsaijamey/frago](https://github.com/tsaijamey/frago)
+
+<details>
+<summary>Contributions & attribution</summary>
+
 **[FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0) · Earlier public work**  
 Earlier work co-built with [Robinson AI Lab](https://github.com/Robinson-AI-Lab). My contribution includes product direction, user experience, and front-end exploration. This repository preserves the earlier product stage.
 
 **[frago](https://github.com/Owen-Teng/frago) · Open-source exploration / Fork**  
 A fork used to explore AI-agent automation tooling. The upstream project is [tsaijamey/frago](https://github.com/tsaijamey/frago); it is credited separately from my own product work.
+
+</details>
 
 ## Writing & interviews
 
