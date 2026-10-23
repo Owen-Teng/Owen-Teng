@@ -1,86 +1,54 @@
-# Owen Teng · 滕新阳
+# Designing work for the age of AI.
 
-<sub>PEOPLE · LEARNING · ORGANIZATION</sub>
+I'm **Owen Teng**, working across HR leadership, product building and organizational learning—exploring how people and agents work together, and how experience becomes reusable capability.
 
-### Designing work for the age of AI.
+[简体中文](README.zh-CN.md) · [Website](https://tengxinyang.cn) · [Robinson AI Lab](https://github.com/Robinson-AI-Lab)
 
-I work at the intersection of **HR leadership, product building, and organizational learning**—exploring how people and agents deliver work together, and how experience becomes a capability others can reuse.
+## Companest · 伴境
 
-[简体中文](README.zh-CN.md) · [Website](https://tengxinyang.cn) · [Forbes interview](#writing--interviews) · [Robinson AI Lab](https://github.com/Robinson-AI-Lab)
+<p><a href="projects/companest/README.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" height="472" alt="Six Companest assistants greeting in their workspaces"></a></p>
 
-> **Redesign the work. Let evidence guide changes to roles, organization, and incentives.**
+**Work, with companions.** Rooms, animation and six assistants make everyday collaboration with AI more approachable. The Windows mail preview brings organizing work, editable replies and follow-through into a public showcase with private source; more workflows unlock progressively.
 
-## Selected work
+[Enter Companest →](projects/companest/README.md) · [Watch the HD demo](projects/companest/docs/media/companions-greeting-grid.mp4)
 
-<h3 align="center">Companest · 伴境</h3>
-<p align="center"><strong>Work, with companions.</strong></p>
+## FusionLoop
 
-<p align="center">
-  <a href="projects/companest/README.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" alt="Six Companest assistants greeting together in a synchronized three-by-two grid"></a>
-</p>
-<p align="center">Mail · WeChat · Feishu · Knowledge · Files · Q&amp;A<br>Start with mail; more workflows unlock progressively.</p>
-<p align="center"><strong><a href="projects/companest/README.md">Enter the world →</a></strong></p>
-<p align="center"><sub>Six actual greeting scenes, one shared timeline. <a href="projects/companest/docs/media/companions-greeting-grid.mp4">HD video</a><br>Windows mail preview · Public showcase, private source</sub></p>
+<p><a href="https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md"><picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1100px)" srcset="assets/profile/fusionloop-motion-mobile.en.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/fusionloop-motion.en.png">
+  <source media="(max-width: 1100px)" srcset="assets/profile/fusionloop-motion-mobile.en.gif">
+  <img src="assets/profile/fusionloop-motion.en.gif" width="1080" alt="Work, evidence and learning connect around shared outcomes. Conceptual motion, not empirical results.">
+</picture></a></p>
 
-<details>
-<summary>Product origins & current stage</summary>
+**From shared delivery to capability an organization can reuse.** My research explores how human judgment and agent execution work around shared outcomes, then uses operating evidence to examine changes in roles, authority and incentives. The 37-page paper presents hypotheses that remain to be tested in real operation.
 
-**[Companest · 伴境](projects/companest/README.md) · Your AI world for work**  
-A welcoming workspace with rooms, animation, and six assistants. Start with mail matters, editable replies, and continued follow-up; other workflows unlock progressively.
+[Read the paper →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [Core hypotheses](https://github.com/Owen-Teng/fusionloop/blob/main/idea.md) · [Role example](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.md)
 
-[Overview & demonstrations](projects/companest/README.md) · [Origins & purpose](projects/companest/docs/ORIGIN.md) · [Mail capabilities](projects/companest/docs/MAIL-FEATURES.md)
+## FridayOS 1.0
 
-<sub>Windows mail preview · Public showcase, private source · Formerly FridayOS; original artwork and historical captures retain earlier branding.</sub>
+<p><a href="https://github.com/Robinson-AI-Lab/FridayOS1.0"><picture>
+  <source media="(max-width: 1100px)" srcset="assets/profile/fridayos-six-brain-mobile.svg">
+  <img src="assets/profile/fridayos-six-brain-hero.svg" width="1080" alt="FridayOS Six-Brain Method: capture, execution, knowledge, skills, evidence and regulation">
+</picture></a></p>
 
-</details>
+**Give knowledge a structure your AI can work with.** I proposed the Six-Brain Method and developed it with Robinson AI Lab into an open-source personal knowledge management project: a local Markdown blueprint, an Obsidian example vault and bilingual guides. Maintained by Robinson AI Lab.
 
-### FusionLoop
+[Explore FridayOS 1.0 →](https://github.com/Robinson-AI-Lab/FridayOS1.0) · [The Six-Brain Method](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/SIX-BRAIN.md) · [Get started](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/DEPLOYMENT.md)
 
-**Organization, roles & incentives in the age of agents.**
-
-**[Read the 37-page paper →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)** · [Download the reading package](https://github.com/Owen-Teng/fusionloop/releases/tag/v0.3-reading)
-
-<details>
-<summary>Research overview, hypotheses & examples</summary>
-
-**[FusionLoop](https://github.com/Owen-Teng/fusionloop#readme-ov-file) · Organization, roles & incentives in the age of agents**  
-My research into how shared outcomes, human judgment and agent execution can reshape work—and how operating evidence should inform organization, roles, rewards and succession.
-
-[37-page paper](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [English introduction](https://github.com/Owen-Teng/fusionloop/blob/main/README.en.md) · [Core hypothesis](https://github.com/Owen-Teng/fusionloop/blob/main/idea.md) · [Role design example](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.md)
-
-<sub>August 2026 research report · Full paper, original figures and bilingual guides · Web edition v0.2, 23 October 2026. Organizational hypotheses remain to be tested.</sub>
-
-</details>
-
-### Earlier work & open-source exploration
-
-[**FridayOS 1.0**](https://github.com/Robinson-AI-Lab/FridayOS1.0) · Local Markdown knowledge management, the Six-Brain blueprint and an Obsidian example vault  
-[**frago**](https://github.com/Owen-Teng/frago) · Fork of [tsaijamey/frago](https://github.com/tsaijamey/frago)
-
-<details>
-<summary>Contributions & attribution</summary>
-
-**[FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0) · Earlier public work**  
-Earlier work co-built with [Robinson AI Lab](https://github.com/Robinson-AI-Lab). My contribution includes product direction, user experience, and front-end exploration. This repository preserves the earlier product stage.
-
-**[frago](https://github.com/Owen-Teng/frago) · Open-source exploration / Fork**  
-A fork used to explore AI-agent automation tooling. The upstream project is [tsaijamey/frago](https://github.com/tsaijamey/frago); it is credited separately from my own product work.
-
-</details>
+**Other open-source exploration:** [frago](https://github.com/Owen-Teng/frago) — an agent automation toolkit forked from [tsaijamey/frago](https://github.com/tsaijamey/frago).
 
 ## Writing & interviews
 
-**FORBES CHINA · Featured interview**  
-### [Bringing gamification into management](https://www.forbeschina.com/business/62996)
-
-A conversation about my path across management, gamification, and industry collaboration.  
-<sub>19 January 2023 · In Chinese.</sub>
+**[Bringing gamification into management](https://www.forbeschina.com/business/62996)**  
+Forbes China · 2023 — Management, gamification and industry collaboration. In Chinese.
 
 **[Designing an AI-HR strategy in the generative AI era](https://www.infoq.cn/article/qfi3ivzcfjehwjltkmoe)**  
-InfoQ · 9 May 2024 · Adapted from my DTDS talk, in Chinese.
+InfoQ · 2024 — Adapted from my DTDS talk. In Chinese.
 
 **[When the organization learns](https://github.com/Owen-Teng/fusionloop/blob/main/essays/organizational-learning.md)**  
-Research note · How personal experience becomes knowledge another person can use.
+Research note — How personal experience becomes knowledge another person can use.
+
 
 ## Background
 
@@ -101,4 +69,3 @@ MS in Marketing, **Johns Hopkins University** (2017). Selected for [Forbes China
 ---
 
 Counterexamples and attempts that did not work are welcome. [Join the research discussion →](https://github.com/Owen-Teng/fusionloop/issues)
-

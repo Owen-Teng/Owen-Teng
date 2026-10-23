@@ -1,86 +1,54 @@
-# 滕新阳 · Owen Teng
+# 为 AI 时代重新设计工作。
 
-<sub>人 · 学习 · 组织</sub>
+我是 **滕新阳 Owen Teng**，从事人力资源管理、产品建设与组织学习，探索人和 Agent 如何共同完成工作，让经验成为可以复用的能力。
 
-### 为 AI 时代重新设计工作。
+[English](README.md) · [个人网站](https://tengxinyang.cn) · [鲁滨逊实验室](https://github.com/Robinson-AI-Lab)
 
-我的实践横跨**人力资源管理、产品建设与组织学习**：探索人和 Agent 如何共同完成工作，并让经验成为其他人可以复用的组织能力。
+## 伴境 Companest
 
-[English](README.md) · [个人网站](https://tengxinyang.cn) · [福布斯人物专访](#文章与人物专访) · [鲁滨逊实验室](https://github.com/Robinson-AI-Lab)
+<p><a href="projects/companest/README.zh-CN.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" height="472" alt="伴境六位助理的真实同步问候动画"></a></p>
 
-> **先重构工作，再依据真实运行证据调整岗位、组织与激励。**
+**让工作，有伙伴。** 用房间、动画和六位助理，让人与 AI 的日常协作更容易理解和参与。从事项整理、可编辑回复与持续跟进开始，Windows 邮件预览现已公开展示，源码私有，更多能力逐版解锁。
 
-## 精选研究与项目
+[走进伴境 →](projects/companest/README.zh-CN.md) · [观看高清演示](projects/companest/docs/media/companions-greeting-grid.mp4)
 
-<h3 align="center">伴境 Companest</h3>
-<p align="center"><strong>让工作，有伙伴。</strong></p>
+## FusionLoop
 
-<p align="center">
-  <a href="projects/companest/README.zh-CN.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" alt="伴境六位助理同步问候：三列两行六宫格"></a>
-</p>
-<p align="center">邮件 · 微信 · 飞书 · 知识 · 文件 · 答疑<br>从邮件开始，更多能力逐版解锁。</p>
-<p align="center"><strong><a href="projects/companest/README.zh-CN.md">走进伴境的小世界 →</a></strong></p>
-<p align="center"><sub>六位助理的真实问候动画，同步开场。<a href="projects/companest/docs/media/companions-greeting-grid.mp4">高清版</a><br>Windows 邮件预览 · 展示页公开，源码仍私有</sub></p>
+<p><a href="https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md"><picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1100px)" srcset="assets/profile/fusionloop-motion-mobile.zh.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/fusionloop-motion.zh.png">
+  <source media="(max-width: 1100px)" srcset="assets/profile/fusionloop-motion-mobile.zh.gif">
+  <img src="assets/profile/fusionloop-motion.zh.gif" width="1080" alt="围绕共同结果的工作协同、运行证据与组织学习；概念动效，不代表实证结果">
+</picture></a></p>
 
-<details>
-<summary>创意由来与当前进展</summary>
+**从一次共同交付，到组织能够复用的能力。** 我的组织研究，探索人类判断与 Agent 执行如何围绕共享结果协作，再用运行证据检验岗位、权责与激励的变化。37 页论文提出研究假设，仍待真实运行检验。
 
-**[伴境 Companest](projects/companest/README.zh-CN.md) · 你的 AI 工作小世界**  
-用房间、动画和六位助理，让人与 AI 的工作协作更容易理解和参与。当前从邮件事项、可编辑回复与持续跟进开始；更多能力逐版解锁。
+[阅读论文 →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [核心假设](https://github.com/Owen-Teng/fusionloop/blob/main/idea.zh-CN.md) · [岗位示例](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.zh-CN.md)
 
-[项目介绍与演示](projects/companest/README.zh-CN.md) · [创意由来与目的](projects/companest/docs/ORIGIN.zh-CN.md) · [邮件已实现功能](projects/companest/docs/MAIL-FEATURES.zh-CN.md)
+## FridayOS 1.0
 
-<sub>Windows 邮件预览 · 展示页公开，源码仍私有 · 更名自 FridayOS；原画与部分历史演示保留旧标识。</sub>
+<p><a href="https://github.com/Robinson-AI-Lab/FridayOS1.0"><picture>
+  <source media="(max-width: 1100px)" srcset="assets/profile/fridayos-six-brain-mobile.zh-CN.svg">
+  <img src="assets/profile/fridayos-six-brain-hero.zh-CN.svg" width="1080" alt="FridayOS 六脑方法：捕获、执行、知识、技能、证据与调节">
+</picture></a></p>
 
-</details>
+**让知识像大脑一样分工，让 AI 沿着你的知识持续工作。** 我提出六脑方法，与鲁滨逊实验室伙伴共同发展为开源的个人知识管理项目，提供本地 Markdown 蓝图、Obsidian 示例知识库与中英文教程。项目由鲁滨逊实验室维护。
 
-### FusionLoop
+[探索 FridayOS 1.0 →](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/README.zh-CN.md) · [六脑方法](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/SIX-BRAIN.zh-CN.md) · [开始部署](https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/DEPLOYMENT.zh-CN.md)
 
-**Agent 时代下的组织、岗位与激励。**
-
-**[阅读 37 页完整论文 →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)** · [下载配套阅读包](https://github.com/Owen-Teng/fusionloop/releases/tag/v0.3-reading)
-
-<details>
-<summary>研究介绍、核心假设与岗位示例</summary>
-
-**[FusionLoop](https://github.com/Owen-Teng/fusionloop#readme-ov-file) · Agent 时代下组织、岗位与激励**  
-我的组织研究：以共享结果、人类判断和 Agent 执行重构真实工作，再依据运行证据检验组织设计、岗位权责、贡献回报与人才继任。
-
-[37 页完整论文](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [核心假设](https://github.com/Owen-Teng/fusionloop/blob/main/idea.zh-CN.md) · [组织设计](https://github.com/Owen-Teng/fusionloop/blob/main/docs/organization.zh-CN.md) · [岗位示例](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.zh-CN.md)
-
-<sub>2026 年 8 月研究报告 · 完整原稿、原图与双语导读 · 网页版 v0.2，2026 年 10 月 23 日。组织假设仍待真实运行检验。</sub>
-
-</details>
-
-### 早期实践与开源探索
-
-[**FridayOS 1.0**](https://github.com/Robinson-AI-Lab/FridayOS1.0) · 本地 Markdown 知识管理、六脑蓝图与 Obsidian 示例知识库  
-[**frago**](https://github.com/Owen-Teng/frago) · Fork 自 [tsaijamey/frago](https://github.com/tsaijamey/frago)
-
-<details>
-<summary>参与范围与项目署名</summary>
-
-**[FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0) · 早期公开实践**  
-与[鲁滨逊实验室](https://github.com/Robinson-AI-Lab)伙伴共同建设的早期产品记录。我主要参与产品方向、使用体验与前端探索。保留历史入口，方便回看产品演进。
-
-**[frago](https://github.com/Owen-Teng/frago) · 开源工具探索 / Fork**  
-用于了解 AI Agent 自动化工具链的 Fork。原项目为 [tsaijamey/frago](https://github.com/tsaijamey/frago)，这里不将上游项目列作个人原创产品。
-
-</details>
+**其他开源探索：** [frago](https://github.com/Owen-Teng/frago) — 用于研究 Agent 自动化工具链，Fork 自 [tsaijamey/frago](https://github.com/tsaijamey/frago)。
 
 ## 文章与人物专访
 
-**福布斯中国 · 人物专访**  
-### [对话滕新阳：做本土游戏化的领航者](https://www.forbeschina.com/business/62996)
-
-关于我如何把管理、游戏化与行业协作连接起来的一次对话。  
-<sub>2023 年 1 月 19 日</sub>
+**[对话滕新阳：做本土游戏化的领航者](https://www.forbeschina.com/business/62996)**  
+福布斯中国 · 2023 — 管理、游戏化与行业协作。
 
 **[东软集团：生成式 AI 时代，如何布局 AI 人力资源战略？](https://www.infoq.cn/article/qfi3ivzcfjehwjltkmoe)**  
-InfoQ · 2024 年 5 月 9 日 · 由我的 DTDS 演讲整理。
+InfoQ · 2024 — 由我的 DTDS 演讲整理。
 
 **[一个人学会以后，组织怎样也能学会？](https://github.com/Owen-Teng/fusionloop/blob/main/essays/organizational-learning.zh-CN.md)**  
-研究短文 · 把个人经验转为其他人可以独立使用的知识与方法。
+研究短文 — 把个人经验转为其他人可以独立使用的知识与方法。
+
 
 ## 关于我
 
@@ -101,4 +69,3 @@ InfoQ · 2024 年 5 月 9 日 · 由我的 DTDS 演讲整理。
 ---
 
 欢迎提出反例、难懂的段落，以及没有成功的实际尝试。[参与研究讨论 →](https://github.com/Owen-Teng/fusionloop/issues)
-
