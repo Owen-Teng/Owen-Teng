@@ -2,7 +2,7 @@
 
 **Researching work and organization in the age of AI.**
 
-I explore how people and agents can deliver work together—and how experience becomes a capability others can reuse.
+My work spans HR leadership, AI-enabled work redesign, and gamified learning products. I explore how people and agents can deliver work together—and how experience becomes a capability others can reuse.
 
 [简体中文](README.zh-CN.md) · [Website](https://tengxinyang.cn) · [Robinson AI Lab](https://github.com/Robinson-AI-Lab)
 
@@ -10,7 +10,7 @@ I explore how people and agents can deliver work together—and how experience b
 
 **Redesign the work, then use evidence from that work to reconsider roles, organization, and incentives.**
 
-My background is in human resources, organizational learning, and product development. I bring management questions into hands-on building: who owns an outcome, where human judgment belongs, and how the next attempt gets better.
+Building organizations, developing HR automation, and bringing learning products into practice have shaped the questions I work on: who owns an outcome, where human judgment belongs, and how the next attempt gets better.
 
 ## Read, try, and question
 
@@ -30,6 +30,20 @@ FusionLoop v0.1 is a research proposal and practice kit. The example is construc
 **[FridayOS](https://github.com/Robinson-AI-Lab/FridayOS1.0)** explores a human-centered Agent OS for work. I contribute to product direction, user experience, and front-end exploration. The public 1.0 repository records an earlier stage; the broader vision continues to be developed and tested.
 
 I co-founded **[Robinson AI Lab · 鲁滨逊](https://github.com/Robinson-AI-Lab)** to connect AI research, management practice, and open collaboration.
+
+## Experience behind the research
+
+- **Organization and people.** HR Director at Dalian Neusoft Smartgo Technology since March 2025; previously Head of the Shanghai Branch of Group HR at Neusoft. My work includes organization design, leadership development, performance, and incentives.
+- **AI in HR.** Led Neusoft's Apollo Innovation Lab from 2023 to 2025, bringing HR digital employees and workflow automation into practice and developing the team's product capabilities.
+- **Products and learning.** Waffle Product Incubation Lead at Shanghai Xuanxiao Technology, 2023–2025. Connected enterprise learning needs with game mechanics, interaction design, product development, and client delivery.
+- **Community and collaboration.** Founded AGSC, the Gamification Specialized Committee under the Shanghai Multimedia Industry Association, and served as Director and Chair during 2019–2025. Led the second through fifth GCA conferences and helped connect enterprise practice with university research.
+
+MS in Marketing, Johns Hopkins University (2017). Selected for [Forbes China's 2022 list of 100 Outstanding Young Overseas Returnees](https://www.forbeschina.com/business/62548), Growth Potential category.
+
+**Earlier writing and interviews**
+
+- [Designing an AI-HR strategy in the generative AI era](https://www.infoq.cn/article/qfi3ivzcfjehwjltkmoe) — InfoQ, 2024; adapted from my DTDS talk, in Chinese.
+- [A conversation about gamification and management](https://www.forbeschina.com/business/62996) — Forbes China profile, 2023, in Chinese.
 
 ## Current research questions
 
