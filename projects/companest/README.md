@@ -1,5 +1,7 @@
 # Companest · 伴境
 
+**Dedicated project page:** [Companest showcase, updates and feedback](https://github.com/Owen-Teng/companest). This profile copy is an introduction; follow the dedicated repository for current updates.
+
 ## Your AI world for work.
 
 **Work, with companions.**

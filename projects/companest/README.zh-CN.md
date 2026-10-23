@@ -1,5 +1,7 @@
 # 伴境 Companest
 
+**独立项目入口：** [Companest 展示、更新与反馈](https://github.com/Owen-Teng/companest)。个人主页保留这份介绍，后续更新与关注请以独立仓库为准。
+
 ## 你的 AI 工作小世界。
 
 **让工作，有伙伴。**
