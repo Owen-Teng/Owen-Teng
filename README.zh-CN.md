@@ -16,11 +16,11 @@
 <p align="center"><strong>让工作，有伙伴。</strong></p>
 
 <p align="center">
-  <a href="projects/companest/README.zh-CN.md"><img src="projects/companest/docs/media/assistant-mail.gif" width="560" alt="伴境实际邮件房间动画"></a>
+  <a href="projects/companest/README.zh-CN.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" alt="伴境六位助理同步问候：三列两行六宫格"></a>
 </p>
-<p align="center">六位工作伙伴，从邮件开始，更多能力逐版解锁。</p>
+<p align="center">邮件 · 微信 · 飞书 · 知识 · 文件 · 答疑<br>从邮件开始，更多能力逐版解锁。</p>
 <p align="center"><strong><a href="projects/companest/README.zh-CN.md">走进伴境的小世界 →</a></strong></p>
-<p align="center"><sub>邮件房间场景动画 · 点击画面，认识全部六位助理。<br>Windows 邮件预览 · 展示页公开，源码仍私有</sub></p>
+<p align="center"><sub>六位助理的真实问候动画，同步开场。<a href="projects/companest/docs/media/companions-greeting-grid.mp4">高清版</a><br>Windows 邮件预览 · 展示页公开，源码仍私有</sub></p>
 
 <details>
 <summary>创意由来与当前进展</summary>

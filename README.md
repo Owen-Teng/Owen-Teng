@@ -16,11 +16,11 @@ I work at the intersection of **HR leadership, product building, and organizatio
 <p align="center"><strong>Work, with companions.</strong></p>
 
 <p align="center">
-  <a href="projects/companest/README.md"><img src="projects/companest/docs/media/assistant-mail.gif" width="560" alt="Actual mail-room scene animation from Companest"></a>
+  <a href="projects/companest/README.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" alt="Six Companest assistants greeting together in a synchronized three-by-two grid"></a>
 </p>
-<p align="center">Six companions. Start with mail; more workflows unlock progressively.</p>
+<p align="center">Mail · WeChat · Feishu · Knowledge · Files · Q&amp;A<br>Start with mail; more workflows unlock progressively.</p>
 <p align="center"><strong><a href="projects/companest/README.md">Enter the world →</a></strong></p>
-<p align="center"><sub>Mail-room animation · Explore all six companions in the showcase.<br>Windows mail preview · Public showcase, private source</sub></p>
+<p align="center"><sub>Six actual greeting scenes, one shared timeline. <a href="projects/companest/docs/media/companions-greeting-grid.mp4">HD video</a><br>Windows mail preview · Public showcase, private source</sub></p>
 
 <details>
 <summary>Product origins & current stage</summary>
