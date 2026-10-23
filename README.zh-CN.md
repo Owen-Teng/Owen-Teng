@@ -12,11 +12,31 @@
 
 ## 精选研究与项目
 
+<h3 align="center">伴境 Companest</h3>
+<p align="center"><strong>让工作，有伙伴。</strong></p>
+
+<p align="center">
+  <a href="projects/companest/README.zh-CN.md"><img src="projects/companest/docs/media/assistant-mail.gif" width="560" alt="伴境实际邮件房间动画"></a>
+</p>
+<p align="center">六位工作伙伴，从邮件开始，更多能力逐版解锁。</p>
+<p align="center"><strong><a href="projects/companest/README.zh-CN.md">走进伴境的小世界 →</a></strong></p>
+<p align="center"><sub>邮件房间场景动画 · 点击画面，认识全部六位助理。<br>Windows 邮件预览 · 展示页公开，源码仍私有</sub></p>
+
+<details>
+<summary>创意由来与当前进展</summary>
+
+**[伴境 Companest](projects/companest/README.zh-CN.md) · 你的 AI 工作小世界**  
+用房间、动画和六位助理，让人与 AI 的工作协作更容易理解和参与。当前从邮件事项、可编辑回复与持续跟进开始；更多能力逐版解锁。
+
+[项目介绍与演示](projects/companest/README.zh-CN.md) · [创意由来与目的](projects/companest/docs/ORIGIN.zh-CN.md) · [邮件已实现功能](projects/companest/docs/MAIL-FEATURES.zh-CN.md)
+
+<sub>Windows 邮件预览 · 展示页公开，源码仍私有 · 更名自 FridayOS；原画与部分历史演示保留旧标识。</sub>
+
+</details>
+
 ### FusionLoop
 
 **Agent 时代下的组织、岗位与激励。**
-
-[![FusionLoop — 组织、岗位与激励研究](https://raw.githubusercontent.com/Owen-Teng/fusionloop/ac6e9449b94de074634c329827d5343c9168bba4/assets/fusionloop-cover.svg)](https://github.com/Owen-Teng/fusionloop#readme-ov-file)
 
 **[阅读 37 页完整论文 →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)**
 
@@ -29,30 +49,6 @@
 [37 页完整论文](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [核心假设](https://github.com/Owen-Teng/fusionloop/blob/main/idea.zh-CN.md) · [组织设计](https://github.com/Owen-Teng/fusionloop/blob/main/docs/organization.zh-CN.md) · [岗位示例](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.zh-CN.md)
 
 <sub>2026 年 8 月研究报告 · 完整原稿、原图与双语导读 · 网页版 v0.2，2026 年 10 月 23 日。组织假设仍待真实运行检验。</sub>
-
-</details>
-
-### 伴境 Companest
-
-**你的 AI 工作小世界。**
-
-[![伴境实际首页：六位助理的工作房间，使用虚构数据](projects/companest/docs/media/companest-world.png)](projects/companest/README.zh-CN.md)
-
-从邮件事项、可编辑回复与持续跟进开始，更多助理能力逐版解锁。
-
-**[进入小世界，查看演示 →](projects/companest/README.zh-CN.md)** · [邮件已实现功能](projects/companest/docs/MAIL-FEATURES.zh-CN.md)
-
-<sub>Windows 邮件预览 · 展示页公开，源码仍私有</sub>
-
-<details>
-<summary>创意由来与当前进展</summary>
-
-**[伴境 Companest](projects/companest/README.zh-CN.md) · 你的 AI 工作小世界**  
-用房间、动画和六位助理，让人与 AI 的工作协作更容易理解和参与。当前从邮件事项、可编辑回复与持续跟进开始；更多能力逐版解锁。
-
-[项目介绍与演示](projects/companest/README.zh-CN.md) · [创意由来与目的](projects/companest/docs/ORIGIN.zh-CN.md) · [邮件已实现功能](projects/companest/docs/MAIL-FEATURES.zh-CN.md)
-
-<sub>Windows 邮件预览 · 展示页公开，源码仍私有 · 更名自 FridayOS；原画与部分历史演示保留旧标识。</sub>
 
 </details>
 

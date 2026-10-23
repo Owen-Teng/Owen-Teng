@@ -12,11 +12,31 @@ I work at the intersection of **HR leadership, product building, and organizatio
 
 ## Selected work
 
+<h3 align="center">Companest · 伴境</h3>
+<p align="center"><strong>Work, with companions.</strong></p>
+
+<p align="center">
+  <a href="projects/companest/README.md"><img src="projects/companest/docs/media/assistant-mail.gif" width="560" alt="Actual mail-room scene animation from Companest"></a>
+</p>
+<p align="center">Six companions. Start with mail; more workflows unlock progressively.</p>
+<p align="center"><strong><a href="projects/companest/README.md">Enter the world →</a></strong></p>
+<p align="center"><sub>Mail-room animation · Explore all six companions in the showcase.<br>Windows mail preview · Public showcase, private source</sub></p>
+
+<details>
+<summary>Product origins & current stage</summary>
+
+**[Companest · 伴境](projects/companest/README.md) · Your AI world for work**  
+A welcoming workspace with rooms, animation, and six assistants. Start with mail matters, editable replies, and continued follow-up; other workflows unlock progressively.
+
+[Overview & demonstrations](projects/companest/README.md) · [Origins & purpose](projects/companest/docs/ORIGIN.md) · [Mail capabilities](projects/companest/docs/MAIL-FEATURES.md)
+
+<sub>Windows mail preview · Public showcase, private source · Formerly FridayOS; original artwork and historical captures retain earlier branding.</sub>
+
+</details>
+
 ### FusionLoop
 
 **Organization, roles & incentives in the age of agents.**
-
-[![FusionLoop — research into organization, roles and incentives](https://raw.githubusercontent.com/Owen-Teng/fusionloop/ac6e9449b94de074634c329827d5343c9168bba4/assets/fusionloop-cover.svg)](https://github.com/Owen-Teng/fusionloop#readme-ov-file)
 
 **[Read the 37-page paper →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)**
 
@@ -29,30 +49,6 @@ My research into how shared outcomes, human judgment and agent execution can res
 [37-page paper](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [English introduction](https://github.com/Owen-Teng/fusionloop/blob/main/README.en.md) · [Core hypothesis](https://github.com/Owen-Teng/fusionloop/blob/main/idea.md) · [Role design example](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.md)
 
 <sub>August 2026 research report · Full paper, original figures and bilingual guides · Web edition v0.2, 23 October 2026. Organizational hypotheses remain to be tested.</sub>
-
-</details>
-
-### Companest · 伴境
-
-**Your AI world for work.**
-
-[![Actual Companest home screen with fictional data: six assistant rooms](projects/companest/docs/media/companest-world.png)](projects/companest/README.md)
-
-Start with mail matters, editable replies, and continued follow-up; other workflows unlock progressively.
-
-**[Explore the product & demonstrations →](projects/companest/README.md)** · [Mail capabilities](projects/companest/docs/MAIL-FEATURES.md)
-
-<sub>Windows mail preview · Public showcase, private source</sub>
-
-<details>
-<summary>Product origins & current stage</summary>
-
-**[Companest · 伴境](projects/companest/README.md) · Your AI world for work**  
-A welcoming workspace with rooms, animation, and six assistants. Start with mail matters, editable replies, and continued follow-up; other workflows unlock progressively.
-
-[Overview & demonstrations](projects/companest/README.md) · [Origins & purpose](projects/companest/docs/ORIGIN.md) · [Mail capabilities](projects/companest/docs/MAIL-FEATURES.md)
-
-<sub>Windows mail preview · Public showcase, private source · Formerly FridayOS; original artwork and historical captures retain earlier branding.</sub>
 
 </details>
 
