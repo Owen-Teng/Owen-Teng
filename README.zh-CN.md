@@ -38,7 +38,7 @@
 
 **Agent 时代下的组织、岗位与激励。**
 
-**[阅读 37 页完整论文 →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)**
+**[阅读 37 页完整论文 →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)** · [下载配套阅读包](https://github.com/Owen-Teng/fusionloop/releases/tag/v0.3-reading)
 
 <details>
 <summary>研究介绍、核心假设与岗位示例</summary>
@@ -54,7 +54,7 @@
 
 ### 早期实践与开源探索
 
-[**FridayOS 1.0**](https://github.com/Robinson-AI-Lab/FridayOS1.0) · 与鲁滨逊实验室共同建设的早期公开实践  
+[**FridayOS 1.0**](https://github.com/Robinson-AI-Lab/FridayOS1.0) · 本地 Markdown 知识管理、六脑蓝图与 Obsidian 示例知识库  
 [**frago**](https://github.com/Owen-Teng/frago) · Fork 自 [tsaijamey/frago](https://github.com/tsaijamey/frago)
 
 <details>
@@ -101,3 +101,4 @@ InfoQ · 2024 年 5 月 9 日 · 由我的 DTDS 演讲整理。
 ---
 
 欢迎提出反例、难懂的段落，以及没有成功的实际尝试。[参与研究讨论 →](https://github.com/Owen-Teng/fusionloop/issues)
+

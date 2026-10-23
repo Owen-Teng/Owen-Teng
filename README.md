@@ -38,7 +38,7 @@ A welcoming workspace with rooms, animation, and six assistants. Start with mail
 
 **Organization, roles & incentives in the age of agents.**
 
-**[Read the 37-page paper →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)**
+**[Read the 37-page paper →](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md)** · [Download the reading package](https://github.com/Owen-Teng/fusionloop/releases/tag/v0.3-reading)
 
 <details>
 <summary>Research overview, hypotheses & examples</summary>
@@ -54,7 +54,7 @@ My research into how shared outcomes, human judgment and agent execution can res
 
 ### Earlier work & open-source exploration
 
-[**FridayOS 1.0**](https://github.com/Robinson-AI-Lab/FridayOS1.0) · Earlier public work with Robinson AI Lab  
+[**FridayOS 1.0**](https://github.com/Robinson-AI-Lab/FridayOS1.0) · Local Markdown knowledge management, the Six-Brain blueprint and an Obsidian example vault  
 [**frago**](https://github.com/Owen-Teng/frago) · Fork of [tsaijamey/frago](https://github.com/tsaijamey/frago)
 
 <details>
@@ -101,3 +101,4 @@ MS in Marketing, **Johns Hopkins University** (2017). Selected for [Forbes China
 ---
 
 Counterexamples and attempts that did not work are welcome. [Join the research discussion →](https://github.com/Owen-Teng/fusionloop/issues)
+
