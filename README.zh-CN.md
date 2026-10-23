@@ -1,49 +1,44 @@
-<div align="center">
-
 # 滕新阳 · Owen Teng
 
-**管理实践者 · AI 产品共创者 · 鲁滨逊实验室联合发起人**
+**研究 AI 时代的工作与组织设计。**
 
-让人、知识与 AI，在真实工作中连接起来。
+探索人和 Agent 如何共同完成工作，并让经验成为其他人可以复用的组织能力。
 
-[English](https://github.com/Owen-Teng/Owen-Teng/blob/main/README.md) · [个人网站](https://tengxinyang.cn) · [鲁滨逊实验室](https://github.com/Robinson-AI-Lab)
+[English](README.md) · [个人网站](https://tengxinyang.cn) · [鲁滨逊实验室](https://github.com/Robinson-AI-Lab)
 
-</div>
+## 我正在发展的一个判断
 
----
+**先重构工作，再依据真实运行证据调整岗位、组织与激励。**
 
-### 你好，我是 Owen
+我有着人力资源、组织学习与产品开发的实践背景，关注完整结果由谁负责、人的判断应放在哪里，以及下一次工作怎样做得更好。我把这些管理问题带入研究，也带入亲手建设产品的过程。
 
-我有着人力资源、组织学习与产品开发的实践背景，持续关注一个问题：**AI 怎样帮助人更好地学习、判断与协作？**
+## 阅读、尝试与讨论
 
-我把组织管理中的真实问题带入产品共创，也在亲手搭建产品的过程中重新理解工作。尤其关心人与 AI 需要相互理解的时刻：确定目标、补充背景、查看进展，以及决定下一步。
+**FusionLoop 人机工作闭环** — 围绕可验收结果，设计负责人、人机分工、判断与跨周期学习的方法提案。  
+[读核心理念](https://github.com/Owen-Teng/fusionloop/blob/main/idea.zh-CN.md) · [试用工作画布](https://github.com/Owen-Teng/fusionloop/blob/main/templates/loop-canvas.zh-CN.md)
 
-### 我关注的方向
+**一个人学会以后，组织怎样也能学会？** — 把个人经验转为经审查的知识与方法，并检查别人能否独立使用。  
+[阅读短文](https://github.com/Owen-Teng/fusionloop/blob/main/essays/organizational-learning.zh-CN.md)
 
-| 方向 | 我想探索的问题 |
-| :--- | :--- |
-| **AI 与组织学习** | 怎样把日常工作的经验，转化为团队能够复用的知识？ |
-| **人机协作** | 怎样让人看得懂智能体的工作，并在需要时作出判断？ |
-| **游戏化与交互设计** | 怎样通过空间、角色与恰当反馈，让复杂工具更容易理解和使用？ |
+**一份研究简报的完整过程** — 从问题到初稿、退回、修订，再到下一轮的方法改进候选。  
+[查看示例](https://github.com/Owen-Teng/fusionloop/blob/main/examples/research-brief.zh-CN.md)
 
-### 我正在和伙伴一起建设
+FusionLoop v0.1 是研究提案与实践工具包。示例为教学构造，组织效果仍需验证。[我准备怎样验证它](https://github.com/Owen-Teng/fusionloop/blob/main/evaluation.zh-CN.md)。
 
-**[鲁滨逊实验室 · Robinson AI Lab](https://github.com/Robinson-AI-Lab)**  
-我与伙伴共同发起的 AI 研究与共创社区，希望连接 AI 研究、管理实践和开放协作，让不同背景的人一起学习与建设。
+## 与伙伴共同建设
 
-**[FridayOS](https://github.com/Robinson-AI-Lab/FridayOS1.0)**  
-我们正在探索面向工作场景、更亲和人的 Agent OS——帮助人组织知识、与 AI 智能体协作的工作环境。我主要参与产品方向、使用体验与前端探索。公开的 1.0 仓库记录了较早阶段的实践；更完整的 Agent OS 仍在持续开发与验证中。
+**[FridayOS](https://github.com/Robinson-AI-Lab/FridayOS1.0)** 探索面向工作场景、更亲和人的 Agent OS。我主要参与产品方向、使用体验与前端探索。公开的 1.0 仓库记录较早阶段的实践；更完整的产品愿景仍在持续开发与验证。
 
-### 我的实践方式
+我与伙伴共同发起 **[鲁滨逊实验室 · Robinson AI Lab](https://github.com/Robinson-AI-Lab)**，连接 AI 研究、管理实践与开放协作。
 
-- **从真实问题出发。** 先理解工作，再决定工具应该怎样设计。
-- **让人能够参与和判断。** 进展看得见，重要决定有机会被检查和调整。
-- **在建设中学习。** 把想法变成小实验，再回看实际发生了什么。
+## 持续研究的问题
 
-我也在通过真实项目持续学习前端开发，重点打磨交互、信息表达与易用性。
+- Agent 进入工作以后，什么证据足以支持岗位变化？
+- 另一位使用者能否脱离原作者，独立使用一套方法？
+- 空间、角色和反馈怎样让人与 Agent 的协作更容易理解？
 
-### 一起交流
+## 最近更新
 
-欢迎围绕组织学习、知识工具、游戏化，以及人与 AI 的协作展开交流。
+**2026 年 10 月 23 日 — [FusionLoop v0.1](https://github.com/Owen-Teng/fusionloop)：** 首版中英理念、画布、教学示例与验证方法。
 
-[进一步了解我](https://tengxinyang.cn) · [走进实验室](https://github.com/Robinson-AI-Lab) · [交流 FridayOS 使用反馈](https://github.com/Robinson-AI-Lab/FridayOS1.0/issues)
+欢迎提出反例、难懂的段落，以及没有成功的实际尝试。[参与研究讨论](https://github.com/Owen-Teng/fusionloop/issues) · [进一步了解我](https://tengxinyang.cn)
