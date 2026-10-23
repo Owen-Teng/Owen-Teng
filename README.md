@@ -12,12 +12,12 @@ I work at the intersection of **HR leadership, product building, and organizatio
 
 ## Selected work
 
-**[FusionLoop](https://github.com/Owen-Teng/fusionloop) · Human–agent work design**  
-A research proposal and practice kit for accountable outcomes, human judgment, and learning across work cycles.
+**[FusionLoop](https://github.com/Owen-Teng/fusionloop#readme-ov-file) · Organization, roles & incentives in the age of agents**  
+My research into how shared outcomes, human judgment and agent execution can reshape work—and how operating evidence should inform organization, roles, rewards and succession.
 
-[Read the idea](https://github.com/Owen-Teng/fusionloop/blob/main/idea.md) · [Try the canvas](https://github.com/Owen-Teng/fusionloop/blob/main/templates/loop-canvas.md) · [Worked example](https://github.com/Owen-Teng/fusionloop/blob/main/examples/research-brief.md) · [Evaluation](https://github.com/Owen-Teng/fusionloop/blob/main/evaluation.md)
+[37-page paper](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [English introduction](https://github.com/Owen-Teng/fusionloop/blob/main/README.en.md) · [Core hypothesis](https://github.com/Owen-Teng/fusionloop/blob/main/idea.md) · [Role design example](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.md)
 
-<sub>v0.1 · 23 October 2026 · Research proposal; the example is constructed for teaching. Organizational effects remain to be evaluated.</sub>
+<sub>August 2026 research report · Full paper, original figures and bilingual guides · Web edition v0.2, 23 October 2026. Organizational hypotheses remain to be tested.</sub>
 
 **[FridayOS](https://github.com/Robinson-AI-Lab/FridayOS1.0) · A more human workspace for agents**  
 Co-building with [Robinson AI Lab](https://github.com/Robinson-AI-Lab). I contribute to product direction, user experience, and front-end exploration.

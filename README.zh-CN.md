@@ -12,12 +12,12 @@
 
 ## 精选研究与项目
 
-**[FusionLoop 人机工作闭环](https://github.com/Owen-Teng/fusionloop/blob/main/README.zh-CN.md) · 工作设计研究**  
-围绕可验收结果，设计负责人、人机分工、判断与跨周期学习的方法提案和实践工具包。
+**[FusionLoop](https://github.com/Owen-Teng/fusionloop#readme-ov-file) · Agent 时代下组织、岗位与激励**  
+我的组织研究：以共享结果、人类判断和 Agent 执行重构真实工作，再依据运行证据检验组织设计、岗位权责、贡献回报与人才继任。
 
-[核心理念](https://github.com/Owen-Teng/fusionloop/blob/main/idea.zh-CN.md) · [工作画布](https://github.com/Owen-Teng/fusionloop/blob/main/templates/loop-canvas.zh-CN.md) · [完整示例](https://github.com/Owen-Teng/fusionloop/blob/main/examples/research-brief.zh-CN.md) · [验证方法](https://github.com/Owen-Teng/fusionloop/blob/main/evaluation.zh-CN.md)
+[37 页完整论文](https://github.com/Owen-Teng/fusionloop/blob/main/paper/README.md) · [核心假设](https://github.com/Owen-Teng/fusionloop/blob/main/idea.zh-CN.md) · [组织设计](https://github.com/Owen-Teng/fusionloop/blob/main/docs/organization.zh-CN.md) · [岗位示例](https://github.com/Owen-Teng/fusionloop/blob/main/examples/talent-supply.zh-CN.md)
 
-<sub>v0.1 · 2026 年 10 月 23 日 · 研究提案；示例为教学构造，组织效果仍需验证。</sub>
+<sub>2026 年 8 月研究报告 · 完整原稿、原图与双语导读 · 网页版 v0.2，2026 年 10 月 23 日。组织假设仍待真实运行检验。</sub>
 
 **[FridayOS](https://github.com/Robinson-AI-Lab/FridayOS1.0) · 更亲和人的 Agent 工作空间**  
 与[鲁滨逊实验室](https://github.com/Robinson-AI-Lab)伙伴共同建设。我主要参与产品方向、使用体验与前端探索。
