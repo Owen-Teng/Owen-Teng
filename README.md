@@ -19,10 +19,18 @@ My research into how shared outcomes, human judgment and agent execution can res
 
 <sub>August 2026 research report · Full paper, original figures and bilingual guides · Web edition v0.2, 23 October 2026. Organizational hypotheses remain to be tested.</sub>
 
-**[FridayOS](https://github.com/Robinson-AI-Lab/FridayOS1.0) · A more human workspace for agents**  
-Co-building with [Robinson AI Lab](https://github.com/Robinson-AI-Lab). I contribute to product direction, user experience, and front-end exploration.
+**[Companest · 伴境](projects/companest/README.md) · Your AI world for work**  
+A welcoming workspace with rooms, animation, and six assistants. Start with mail matters, editable replies, and continued follow-up; other workflows unlock progressively.
 
-<sub>The public 1.0 repository records an earlier stage. The broader Agent OS vision remains in development and testing.</sub>
+[Overview & demonstrations](projects/companest/README.md) · [Origins & purpose](projects/companest/docs/ORIGIN.md) · [Mail capabilities](projects/companest/docs/MAIL-FEATURES.md)
+
+<sub>Windows mail preview · Public showcase, private source · Formerly FridayOS; original artwork and historical captures retain earlier branding.</sub>
+
+**[FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0) · Earlier public work**  
+Earlier work co-built with [Robinson AI Lab](https://github.com/Robinson-AI-Lab). My contribution includes product direction, user experience, and front-end exploration. This repository preserves the earlier product stage.
+
+**[frago](https://github.com/Owen-Teng/frago) · Open-source exploration / Fork**  
+A fork used to explore AI-agent automation tooling. The upstream project is [tsaijamey/frago](https://github.com/tsaijamey/frago); it is credited separately from my own product work.
 
 ## Writing & interviews
 

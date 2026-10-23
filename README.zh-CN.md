@@ -19,10 +19,18 @@
 
 <sub>2026 年 8 月研究报告 · 完整原稿、原图与双语导读 · 网页版 v0.2，2026 年 10 月 23 日。组织假设仍待真实运行检验。</sub>
 
-**[FridayOS](https://github.com/Robinson-AI-Lab/FridayOS1.0) · 更亲和人的 Agent 工作空间**  
-与[鲁滨逊实验室](https://github.com/Robinson-AI-Lab)伙伴共同建设。我主要参与产品方向、使用体验与前端探索。
+**[伴境 Companest](projects/companest/README.zh-CN.md) · 你的 AI 工作小世界**  
+用房间、动画和六位助理，让人与 AI 的工作协作更容易理解和参与。当前从邮件事项、可编辑回复与持续跟进开始；更多能力逐版解锁。
 
-<sub>公开的 1.0 仓库记录较早阶段的实践；更完整的 Agent OS 愿景仍在持续开发与验证。</sub>
+[项目介绍与演示](projects/companest/README.zh-CN.md) · [创意由来与目的](projects/companest/docs/ORIGIN.zh-CN.md) · [邮件已实现功能](projects/companest/docs/MAIL-FEATURES.zh-CN.md)
+
+<sub>Windows 邮件预览 · 展示页公开，源码仍私有 · 更名自 FridayOS；原画与部分历史演示保留旧标识。</sub>
+
+**[FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0) · 早期公开实践**  
+与[鲁滨逊实验室](https://github.com/Robinson-AI-Lab)伙伴共同建设的早期产品记录。我主要参与产品方向、使用体验与前端探索。保留历史入口，方便回看产品演进。
+
+**[frago](https://github.com/Owen-Teng/frago) · 开源工具探索 / Fork**  
+用于了解 AI Agent 自动化工具链的 Fork。原项目为 [tsaijamey/frago](https://github.com/tsaijamey/frago)，这里不将上游项目列作个人原创产品。
 
 ## 文章与人物专访
 
