@@ -14,9 +14,9 @@ I'm **Owen Teng**, working across HR leadership, product building and organizati
 
 ### 30 seconds of real interaction: enter, edit, save
 
-[![Real mail workflow, redacted](projects/companest/docs/media/companest-real-mail-30s-redacted.gif)](projects/companest/docs/media/companest-real-mail-30s-redacted.mp4)
+[![Real mail workflow, redacted](projects/companest/docs/media/companest-real-mail-30s-redacted.gif)](https://github.com/Owen-Teng/Owen-Teng/raw/refs/heads/main//projects/companest/docs/media/companest-real-mail-30s-redacted.mp4)
 
-[Watch the HD recording](projects/companest/docs/media/companest-real-mail-30s-redacted.mp4)
+[Download the HD MP4](https://github.com/Owen-Teng/Owen-Teng/raw/refs/heads/main//projects/companest/docs/media/companest-real-mail-30s-redacted.mp4)
 
 Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
 
