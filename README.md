@@ -10,7 +10,19 @@ I'm **Owen Teng**, working across HR leadership, product building and organizati
 
 **Work, with companions.** Rooms, animation and six assistants make everyday collaboration with AI more approachable. The Windows mail preview brings organizing work, editable replies and follow-through into a public showcase with private source; more workflows unlock progressively.
 
-[Enter Companest →](projects/companest/README.md) · [Watch the HD demo](projects/companest/docs/media/companions-greeting-grid.mp4)
+[Enter Companest →](projects/companest/README.md) · [Watch the six-companion greeting](projects/companest/docs/media/companions-greeting-grid.mp4)
+
+### 30 seconds of real interaction: enter, edit, save
+
+[![Real mail workflow, redacted](projects/companest/docs/media/companest-real-mail-30s-redacted.gif)](projects/companest/docs/media/companest-real-mail-30s-redacted.mp4)
+
+[Watch the HD recording](projects/companest/docs/media/companest-real-mail-30s-redacted.mp4)
+
+Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
+
+This 30-second recording keeps the real mouse clicks, character animation, interface transitions and save feedback. Names, company references and sender/recipient addresses are mosaicked.
+
+*Edited real desktop footage with gaps shortened. Suggestions were generated during preparation; the clip reopens them and does not demonstrate first-generation speed. The draft was saved locally; no email was sent. The Chinese interface still shows Friday branding.*
 
 ## FusionLoop
 
