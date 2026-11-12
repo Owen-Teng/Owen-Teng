@@ -4,6 +4,12 @@ I'm **Owen Teng**, working across HR leadership, product building and organizati
 
 [简体中文](README.zh-CN.md) · [Website](https://tengxinyang.cn) · [Robinson AI Lab](https://github.com/Robinson-AI-Lab)
 
+## Skill Lens
+
+**See the instruction behind each step.** Open a Skill or turn an SOP into a candidate Skill, trace a node back to its source, then edit and export your own copy. My independent toolkit includes an offline browser demo; generating new maps requires a connected agent platform.
+
+[Explore Skill Lens →](https://github.com/Owen-Teng/skill-lens) · [Try the synthetic demo (download HTML)](https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html)
+
 ## Companest · 伴境
 
 <p><a href="projects/companest/README.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" height="472" alt="Six Companest assistants greeting in their workspaces"></a></p>

@@ -4,6 +4,12 @@
 
 [English](README.md) · [个人网站](https://tengxinyang.cn) · [鲁滨逊实验室](https://github.com/Robinson-AI-Lab)
 
+## Skill Lens
+
+**点开流程图里的一个步骤，看它来自哪句原文，改好后另存自己的 Skill。** 我做的这个独立工具既能解读已有 Skill，也能从操作手册起草候选 Skill。下载示例即可离线体验；处理新材料需要平台管理员接入。
+
+[了解 Skill Lens →](https://github.com/Owen-Teng/skill-lens/blob/main/README.zh-CN.md) · [下载合成演示 HTML](https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html)
+
 ## 伴境 Companest
 
 <p><a href="projects/companest/README.zh-CN.md"><img src="projects/companest/docs/media/companions-greeting-grid.gif" width="1080" height="472" alt="伴境六位助理的真实同步问候动画"></a></p>
