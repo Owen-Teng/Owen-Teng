@@ -6,6 +6,11 @@ I'm **Owen Teng**, working across HR leadership, product building and organizati
 
 ## Skill Lens
 
+<p><a href="https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html"><picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/skill-lens-workflow-en.png">
+  <img src="assets/profile/skill-lens-workflow-en.gif" width="920" alt="12-second demo: trace a node to lines 4–5 of the manual, edit the candidate instruction and download your own Skill ZIP">
+</picture></a></p>
+
 **See the instruction behind each step.** Open a Skill or turn an SOP into a candidate Skill, trace a node back to its source, then edit and export your own copy. My independent toolkit includes an offline browser demo; generating new maps requires a connected agent platform.
 
 [Explore Skill Lens →](https://github.com/Owen-Teng/skill-lens) · [Try the synthetic demo (download HTML)](https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html)

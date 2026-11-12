@@ -6,6 +6,11 @@
 
 ## Skill Lens
 
+<p><a href="https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html"><picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/skill-lens-workflow-zh.png">
+  <img src="assets/profile/skill-lens-workflow-zh.gif" width="920" alt="11.8 秒实录：点开节点查手册第 4–5 行，修改候选指令，另存为自己的 Skill ZIP">
+</picture></a></p>
+
 **点开流程图里的一个步骤，看它来自哪句原文，改好后另存自己的 Skill。** 我做的这个独立工具既能解读已有 Skill，也能从操作手册起草候选 Skill。下载示例即可离线体验；处理新材料需要平台管理员接入。
 
 [了解 Skill Lens →](https://github.com/Owen-Teng/skill-lens/blob/main/README.zh-CN.md) · [下载合成演示 HTML](https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html)
