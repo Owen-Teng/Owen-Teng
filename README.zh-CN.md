@@ -6,14 +6,14 @@
 
 ## Skill Lens
 
-<p><a href="https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html"><picture>
+<p><a href="https://github.com/Owen-Teng/skill-lens/releases/download/v0.8.2/skill-lens-demo.html"><picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/skill-lens-workflow-zh.png">
   <img src="assets/profile/skill-lens-workflow-zh.gif" width="920" alt="11.8 秒实录：点开节点查手册第 4–5 行，修改候选指令，另存为自己的 Skill ZIP">
 </picture></a></p>
 
-**点开流程图里的一个步骤，看它来自哪句原文，改好后另存自己的 Skill。** 我做的这个独立工具既能解读已有 Skill，也能从操作手册起草候选 Skill。下载示例即可离线体验；处理新材料需要平台管理员接入。
+**已经有 Skill，可以点开流程图查原文、改指令，再保存自己的版本。只有操作手册，也可以让 AI 帮你写出第一份 Skill，再逐步核对、修改和导出。** 下载的示例用浏览器就能体验；处理自己的新材料需要接入 AI 平台。
 
-[了解 Skill Lens →](https://github.com/Owen-Teng/skill-lens/blob/main/README.zh-CN.md) · [下载合成演示 HTML](https://github.com/Owen-Teng/skill-lens/releases/download/v0.7.1/skill-lens-demo.html)
+[了解 Skill Lens →](https://github.com/Owen-Teng/skill-lens/blob/main/README.zh-CN.md) · [下载合成演示 HTML](https://github.com/Owen-Teng/skill-lens/releases/download/v0.8.2/skill-lens-demo.html)
 
 ## 伴境 Companest
 
